@@ -16,14 +16,7 @@ J’ai suivi une formation par le centre Studi, qui m’a permis d’acquérir l
 - La collaboration avec d’autres professionnels.
 
 - 📫 Comment me joindre:
-<a>Twitter</a>
-Youtube
-Mail
-Linkedin
-- 
-- 😄 Pronouns: ...
-- 
-- ⚡ Fun fact: ...
+
 
 🚀💻 #DéveloppeurWeb #FrontEnd
 
