@@ -1,5 +1,5 @@
 # Ignorer un fichier spécifique
-*.sh     # Exclure tous les fichiers avec l'extension .sh
+*.sh
 *.txt
 
 # Ignorer un répertoire et son contenu
