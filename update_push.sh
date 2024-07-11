@@ -50,20 +50,26 @@ echo "🤖 Ce README.md est mis à jour avec $RANDOM_WORD." >> "$FILENAME"
 
 echo "Mise à jour du fichier $FILENAME effectuée avec succès."
 
-# Vérifier s'il y a des modifications dans le répertoire de travail
-if [[ $(git status --porcelain) ]]; then
-    # Il y a des modifications à commiter
-    echo "Des modifications détectées. Commit et push en cours..."
+# Vérifier si nous sommes dans un dépôt Git valide
+if git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
+    # Si oui, vérifier s'il y a des modifications dans le répertoire de travail
+    if [[ $(git status --porcelain) ]]; then
+        # Il y a des modifications à commiter
+        echo "Des modifications détectées. Commit et push en cours..."
 
-    # Ajouter tous les fichiers modifiés au staging
-    git add .
+        # Ajouter tous les fichiers modifiés au staging
+        git add .
 
-    # Commit avec un message
-    git commit -m "Mise à jour automatique via script"
+        # Commit avec un message
+        git commit -m "Mise à jour automatique via script"
 
-    # Push vers le repository distant (origin)
-    git push origin main  # Assurez-vous de remplacer 'main' par votre branche principale si elle est différente
+        # Push vers le repository distant (origin)
+        git push origin main  # Assurez-vous de remplacer 'main' par votre branche principale si elle est différente
+    else
+        # Aucune modification détectée
+        echo "Aucune modification à commiter. Fin du script."
+    fi
 else
-    # Aucune modification détectée
-    echo "Aucune modification à commiter. Fin du script."
+    # Si nous ne sommes pas dans un dépôt Git valide
+    echo "Attention : ce répertoire n'est pas un dépôt Git valide. Aucune opération Git ne sera effectuée."
 fi
