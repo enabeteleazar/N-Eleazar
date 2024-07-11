@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Chemin vers le fichier README.md
+# Chemin absolu vers le fichier README.md
 FILENAME="/home/eleazar/N-Eleazar/README.md"
 
 # Vérifier si le fichier README.md existe
@@ -17,7 +17,7 @@ if [[ ! -f $WORDS_FILE ]]; then
 fi
 
 # Lire les mots depuis le fichier words.txt dans un tableau
-mapfile -t WORDS < $WORDS_FILE
+mapfile -t WORDS < "$WORDS_FILE"
 
 # Compter le nombre de lignes dans le fichier README.md
 NUM_LINES=$(wc -l < "$FILENAME")

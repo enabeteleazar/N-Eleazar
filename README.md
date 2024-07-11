@@ -1,12 +1,3 @@
-# N-Eleazar
-
-Bonjour tout le monde! 👋
-
-Bonjour à tous ! Je suis développeur web junior spécialisé en front-end React. Passionné par la création d'applications modernes et conviviales, 
-je suis déterminé à perfectionner mes compétences et à explorer de nouvelles technologies pour fournir des solutions innovantes. 
-
-### Contact me
-
 * [Twitter](https://twitter.com/EleazarNabet_)
 * [Mail](mailto:nabet.eleazar@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/eleazar-nabet)
@@ -33,3 +24,9 @@ Voici le site de pâtisserie créé avec passion par Orane, mettant en avant ses
 Dernière mise à jour le jeudi 11 juillet 2024
 
 🤖 Ce README.md est mis à jour avec virtuosité.
+Dernière mise à jour le jeudi 11 juillet 2024
+
+Dernière mise à jour le jeudi 11 juillet 2024
+Dernière mise à jour le jeudi 11 juillet 2024
+
+🤖 Ce README.md est mis à jour avec acumen.
