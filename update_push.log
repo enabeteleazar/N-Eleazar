@@ -9,3 +9,9 @@ To https://github.com/enabeteleazar/N-Eleazar.git
    4f0eebc..b9ea408  main -> main
 Mise à jour du fichier /home/eleazar/N-Eleazar/README.md effectuée avec succès.
 Des modifications détectées. Commit et push en cours...
+[main cb04319] Mise à jour automatique via script
+ 4 files changed, 48 insertions(+), 1 deletion(-)
+ create mode 100644 gpt2_docker/dockerfile
+ create mode 100644 gpt2_docker/run_gpt2.py
+To https://github.com/enabeteleazar/N-Eleazar.git
+   12ed9b4..cb04319  main -> main
