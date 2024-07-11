@@ -26,14 +26,10 @@ Site statique réalisé dans le cadre d'un projet de formation.
 
 Voici le site de pâtisserie créé avec passion par Orane, mettant en avant ses compétences et sa créativité
 
+
 ### -----
 
-Last update on Wed Jul 10 2024
 
-🤖 This README.md is updated with wickedness.
+Dernière mise à jour le jeudi 11 juillet 2024
 
-Dernière mise à jour le mercredi 10 juillet 2024
-
-Il reste 175 jours avant 2025 ⏱
-
-🤖 Ce README.md est mis à jour avec malice, par Gabot ❤️
+🤖 Ce README.md est mis à jour avec réflexion.
