@@ -83,3 +83,9 @@ Des modifications détectées. Commit et push en cours...
 fatal : impossible d'accéder à 'https://github.com/enabeteleazar/N-Eleazar.git/' : Could not resolve host: github.com
 Mise à jour du fichier /home/eleazar/N-Eleazar/README.md effectuée avec succès.
 Des modifications détectées. Commit et push en cours...
+[main 44fa209] Mise à jour automatique via script
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+To https://github.com/enabeteleazar/N-Eleazar.git
+   c4f2c44..44fa209  main -> main
+Mise à jour du fichier /home/eleazar/N-Eleazar/README.md effectuée avec succès.
+Des modifications détectées. Commit et push en cours...
