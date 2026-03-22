@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Chemin absolu vers le fichier README.md
-FILENAME="/home/eleazar/N-Eleazar/README.md"
+FILENAME="/mnt/usb-storage/N-Eleazar/README.md"
 
 # Vérifier si le fichier README.md existe
 if [[ ! -f $FILENAME ]]; then
@@ -10,7 +10,7 @@ if [[ ! -f $FILENAME ]]; then
 fi
 
 # Vérifier si le fichier words.txt existe
-WORDS_FILE="/home/eleazar/N-Eleazar/words.txt"
+WORDS_FILE="/mnt/usb-storage/N-Eleazar/words.txt"
 if [[ ! -f $WORDS_FILE ]]; then
     echo "Le fichier $WORDS_FILE n'existe pas."
     exit 1
