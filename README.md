@@ -21,6 +21,6 @@ Voici le site de pâtisserie créé avec passion par Orane, mettant en avant ses
 ### -----
 
 
-Dernière mise à jour le dimanche  4 août 2024
+Dernière mise à jour le Sunday 22 March 2026
 
-🤖 Ce README.md est mis à jour avec sagacité.
+🤖 Ce README.md est mis à jour avec .
