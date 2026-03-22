@@ -4,3 +4,4 @@
 
 # Ignorer un répertoire et son contenu
 dossier_a_exclure/
+venv/
