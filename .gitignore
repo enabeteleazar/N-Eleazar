@@ -1,6 +1,7 @@
 # Ignorer un fichier spécifique
 *.sh
 *.txt
+.env
 
 # Ignorer un répertoire et son contenu
 dossier_a_exclure/
