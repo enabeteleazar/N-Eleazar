@@ -48,6 +48,6 @@ Voici la liste de mes projets avec une brève description :
 ### [PortFolio-nabet](https://github.com/enabeteleazar/PortFolio-nabet)
 > Pas de description fournie. — <h1>Mon PortFolio</h1>
 
+Dernière mise à jour le samedi 20 juin 2026
 
-Dernière mise à jour le Sunday 22 March 2026
-🤖 Ce README.md est mis à jour avec professionnalisme.
+🤖 Ce README.md est mis à jour avec .
