@@ -1,0 +1,8 @@
+{
+  "name": "n-eleazar",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test": "bash -n update_push.sh && echo 'update_push.sh: syntaxe bash valide'"
+  }
+}
